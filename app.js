@@ -48,6 +48,7 @@ yargs.command({
   },
 });
 
+// ====> Show All Data
 yargs.command({
   command: "showList",
   describe: "to show list from the data",

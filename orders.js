@@ -65,7 +65,7 @@ const listData = () => {
     console.log(obj.fname, obj.age, obj.city, obj.gpa);
   });
 };
-// order(4) ========> Show list of data
+// order(4) ========> Show all data
 const showAllData = () => {
   const allData = loadData();
   allData.forEach((obj) => {
