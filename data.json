@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "fname": "mahmoud",
+        "lname": "salah",
+        "city": "menoufia",
+        "age": 22,
+        "gpa": 2.7
+    },
+    {
+        "id": 2,
+        "fname": "mahmoud",
+        "lname": "samy",
+        "city": "menoufia",
+        "age": 22,
+        "gpa": 2.9
+    },
+    {
+        "id": 3,
+        "fname": "Khalid",
+        "lname": "Ali",
+        "city": "Alexandria",
+        "age": 21,
+        "gpa": 2.5
+    },
+    {
+        "id": 4,
+        "fname": "Samy",
+        "lname": "Ezzat",
+        "city": "Alexandria",
+        "age": 22,
+        "gpa": 3
+    },
+    {
+        "id": 5,
+        "fname": "Fekry",
+        "lname": "Osman",
+        "city": "Aswan",
+        "age": 20,
+        "gpa": 2.7
+    },
+    {
+        "id": 6,
+        "fname": "Tark",
+        "lname": "Fathy",
+        "city": "Cairo",
+        "age": 21,
+        "gpa": 2.83
+    },
+    {
+        "id": 7,
+        "fname": "Mahmoud",
+        "lname": "Abdelrhman",
+        "city": "Cairo",
+        "age": 19,
+        "gpa": 2.53
+    },
+    {
+        "id": 8,
+        "fname": "Mahmoud",
+        "lname": "Elsebaey",
+        "city": "Menoufia",
+        "age": 22,
+        "gpa": 3.21
+    },
+    {
+        "id": 9,
+        "fname": "Ezzat",
+        "lname": "Fahmy",
+        "city": "Domyat",
+        "age": 21,
+        "gpa": 2.91
+    },
+    {
+        "id": 11,
+        "fname": "Moo",
+        "lname": "Salah",
+        "city": "Menoufia",
+        "age": 22,
+        "gpa": 2.94
+    },
+    {
+        "id": 13,
+        "fname": "Mahamed",
+        "lname": "Osama",
+        "city": "Cairo",
+        "age": 22,
+        "gpa": 2.77
+    },
+    {
+        "id": 14,
+        "fname": "Mahamed",
+        "lname": "Metualy",
+        "city": "Cairo",
+        "age": 20,
+        "gpa": 2.69
+    },
+    {
+        "id": 16,
+        "fname": "Ali",
+        "lname": "Mustafa",
+        "city": "Alexandria",
+        "age": 22,
+        "gpa": 2.72
+    },
+    {
+        "id": 19,
+        "fname": "Islam",
+        "lname": "Mahammed",
+        "city": "mansoura",
+        "age": 23,
+        "gpa": 3.37
+    },
+    {
+        "id": 20,
+        "fname": "Saied",
+        "lname": "Maher",
+        "city": "alshrqia",
+        "age": 22,
+        "gpa": 3.15
+    }
+]
